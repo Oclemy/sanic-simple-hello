@@ -31,3 +31,10 @@ curl http://localhost:8080/
 ```json
 {"message": "Hello, World!"}
 ```
+
+
+### Live Demo
+
+[![Run on Codely](https://codely.run/python/static/buttons/run-minimal.svg)](https://codely.run/python/project/sanic-simple-hello)
+
+
