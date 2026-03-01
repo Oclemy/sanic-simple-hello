@@ -23,7 +23,7 @@ python app.py
 Open your browser or use curl:
 
 ```bash
-curl http://localhost:8000/
+curl http://localhost:8080/
 ```
 
 **Response:**
